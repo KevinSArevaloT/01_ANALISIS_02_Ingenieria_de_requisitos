@@ -1,0 +1,2 @@
+# 01_ANALISIS_02_Ingenieria_de_requisitos
+archivo actividad en clase de ingeniería de requisitos
